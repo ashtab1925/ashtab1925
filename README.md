@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashtab1925
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning btech
+- 🌱 I’m currently in btech 3rd year
 - 💞️ I’m looking to collaborate on cybersecurity
 - 📫 How to reach me ashtab1925@gmail.com
 
