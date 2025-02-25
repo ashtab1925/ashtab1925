@@ -3,7 +3,7 @@
 - 🌱 I’m currently in btech 3rd year
 - 💞️ I’m looking to collaborate on cybersecurity
 - 📫 How to reach me ashtab1925@gmail.com
-- i live in hyderabad
+- i live in Karimnagar
 
 <!---
 ashtab1925/ashtab1925 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
